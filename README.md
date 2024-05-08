@@ -1,6 +1,6 @@
 # File Menu Template Asterisk Version
 
-J.C.R Soft~Choice File Menu Asterisk Version Python program example:
+J.C.R Soft~Choice File Menu Template Asterisk Version Python program example:
 
 Created by Joseph C. Richardson, GitHub.com
 
